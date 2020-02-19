@@ -4,7 +4,7 @@ AFFO Deeplink
 =============
 
 ============ =============================================
-**Version**  1.0.0
+**Version**  1.0.1.dev
 **Web**      https://affo.io/
 **Download** https://pypi.org/affoio/affo-deeplink/
 **Source**   https://github.com/affoio/affo-deeplink/
